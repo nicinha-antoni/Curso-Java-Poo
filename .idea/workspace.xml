@@ -4,26 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f70ed9d8-c6a8-48e7-a4d5-d4ad6064c070" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopsArrays/ArraysEx1OrdemInversa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopsArrays/ArraysEx2Consoantes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopsArrays/ArraysEx3NumerosAleatorios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopsArrays/ArraysEx4ArrayMultidimensional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopsArrays/LoopsEx1NomeIdade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopsArrays/LoopsEx2Nota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopsArrays/loopsEx3MaiorMedia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopsArrays/loopsEx4ParImpar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopsArrays/loopsEx5Taboada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Metodos/Ex1Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Metodos/Ex2Emprestimo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Metodos/Ex3Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Metodos/Ex4Mensagem.java" afterDir="false" />
+    <list default="true" id="f70ed9d8-c6a8-48e7-a4d5-d4ad6064c070" name="Changes" comment="Curso Java">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,6 +129,14 @@
       <option name="presentableId" value="Default" />
       <updated>1659887189245</updated>
     </task>
+    <task id="LOCAL-00001" summary="Curso Java">
+      <created>1659889677669</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659889677669</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,5 +149,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Curso Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Curso Java" />
   </component>
 </project>
