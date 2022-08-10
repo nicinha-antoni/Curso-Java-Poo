@@ -14,7 +14,7 @@ Clique na palavra "Certificado" e seja redirecionado ao certificado.
 - `2`: [Introdução ao Git e ao GitHub](https://github.com/nicinha-antoni/Desafio-Dio-Boot-Linux.git) - [Certificado](https://photos.app.goo.gl/uxKkRzpS4oMWwBR78)
 - `3`: Dominando IDEs Java  - [Certificado](https://photos.app.goo.gl/BtCe8bUBZeiXwsiHA)
 - `4`: Variáveis, Tipos de Dados e Operadores Matemáticos em Java -  [Certificado](https://photos.app.goo.gl/Ea2BnDqQ1zpt2kEm7)
-- `5`: Entendendo Métodos Java
+- `5`: [Entendendo Métodos Java](https://github.com/nicinha-antoni/Curso-Java-Poo/tree/main/src/Metodos) - [Certificado](https://photos.app.goo.gl/96AXHvPTt8T8jwxE9)
 - `6`: [Estruturas de Repetição e Arrays em Java](https://github.com/nicinha-antoni/Curso-java/tree/main/src/LoopsArrays) - [Certificado](https://photos.app.goo.gl/AL2JnvZeEXqkpuEVA)
 - `7`: Praticando Orientação a Objetos com Java
 - `8`: Debugging Java
