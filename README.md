@@ -7,7 +7,7 @@
 
 
 ### * [Descrição dos Cursos](#descrição-do-projeto)
-Clique no nome do curso para ser redirecionado ao projeto na linguagem Java dentro do GitHub.
+Clique no nome do curso para ser redirecionado aos exercícios propostos na linguagem Java dentro do GitHub.
 Clique na palavra "Certificado" e seja redirecionado ao certificado.
 
 - `1`: Introdução à Programação e Pensamento Computacional - [Certificado](https://photos.app.goo.gl/ELB5Xnqm7ik4yVMp8)
@@ -23,6 +23,9 @@ Clique na palavra "Certificado" e seja redirecionado ao certificado.
 - `11`: Principais Protocolos de Comunicação da Internet
 - `12`: Gerenciamento de Dependências e Build em Java com Maven
 - `13`: Introdução ao Spring Framework
+- `14`: Lógica Condicional e Controle de Fluxos em Java - [Certificado](https://photos.app.goo.gl/5v8P5DqbYisLfzrF6)
+- `15`Projetos ágeis com SCRUM  - [Certificado](https://photos.app.goo.gl/ZVKDSWFPY55feKP47)
+
 - `Extra` : [Mini Desafios introdutorios](https://github.com/nicinha-antoni/Curso-java/tree/main/src/MiniDesafiosIniciais)
 
 
