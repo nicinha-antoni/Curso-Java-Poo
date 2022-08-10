@@ -6,7 +6,7 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 
-### * [Descrição dos Cursos](#descrição-do-projeto)
+### * Descrição dos Cursos
 Clique no nome do curso para ser redirecionado aos exercícios propostos na linguagem Java dentro do GitHub.
 Clique na palavra "Certificado" e seja redirecionado ao certificado.
 
@@ -29,7 +29,7 @@ Clique na palavra "Certificado" e seja redirecionado ao certificado.
 - `Extra` : [Mini Desafios introdutorios](https://github.com/nicinha-antoni/Curso-java/tree/main/src/MiniDesafiosIniciais)
 
 
-### * [Tecnologias Utilizadas](#tecnologias-utilizadas)
+### * Tecnologias Utilizadas
 
 - `Intellij Community ` : `Versão 2022.2` 
 - `Eclipse`
