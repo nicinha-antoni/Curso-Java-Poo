@@ -10,7 +10,7 @@
 
 Introdução à Programação e Pensamento Computacional
 Introdução ao Git e ao GitHub
-![Dominando IDEs Java ](https://photos.google.com/photo/AF1QipMyB9gwcYFyxIqPJOJAO-0Yn_BtsE7Z6TunNSxy)
+![Dominando IDEs Java ]([https://photos.google.com/photo/AF1QipMyB9gwcYFyxIqPJOJAO-0Yn_BtsE7Z6TunNSxy](https://photos.app.goo.gl/5eNdW8k54zTR9zyk7))
 Variáveis, Tipos de Dados e Operadores Matemáticos em Java
 Entendendo Métodos Java
 Estruturas de Repetição e Arrays em Java
